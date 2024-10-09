@@ -1,0 +1,29 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "description": "TheFutureOf.uz - a forum designed for discovering, discussing, and developing new ideas and innovative solutions.",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@nuxtjs/tailwindcss": "^6.12.1",
+    "nuxt": "^3.13.0",
+    "vue": "latest",
+    "vue-router": "latest"
+  },
+  "keywords": [
+    "nuxt",
+    "vue",
+    "forum",
+    "ideas",
+    "innovation"
+  ],
+  "author": "Your Name",
+  "license": "Apache-2.0"
+}
